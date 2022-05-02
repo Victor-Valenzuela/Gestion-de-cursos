@@ -1,4 +1,4 @@
-# Proyecto Modulo 8 "Framework Express".
+# Proyecto Gestión de cursos Modulo 8 "Framework Express".
 
 Capítulos
 El proyecto está basado en los siguientes capítulos de la lectura:
